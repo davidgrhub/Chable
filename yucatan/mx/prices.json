@@ -13431,16 +13431,20 @@
             "amount": 34687,
             "available": true
         },
+        "2025-08-24": {
+            "amount": 34704,
+            "available": true
+        },
         "2025-08-25": {
-            "amount": 97140,
+            "amount": 34704,
             "available": true
         },
         "2025-08-26": {
-            "amount": 97140,
+            "amount": 34704,
             "available": true
         },
         "2025-08-27": {
-            "amount": 97140,
+            "amount": 34704,
             "available": true
         },
         "2025-08-28": {
@@ -21995,5 +21999,5 @@
     },
     "6-1": {},
     "6-2": {},
-    "lastExecution": "2025-07-22 11:00:50"
+    "lastExecution": "2025-07-22 17:00:50"
 }
