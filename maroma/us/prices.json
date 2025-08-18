@@ -788,7 +788,7 @@
             "available": true
         },
         "2026-02-26": {
-            "amount": 1701,
+            "amount": 1419,
             "available": false,
             "failure": "Closed"
         },
@@ -798,7 +798,7 @@
             "failure": "Closed"
         },
         "2026-02-28": {
-            "amount": 1701,
+            "amount": 1419,
             "available": false,
             "failure": "Closed"
         },
@@ -2278,8 +2278,18 @@
             "amount": 1158,
             "available": true
         },
+        "2026-02-26": {
+            "amount": 1460,
+            "available": false,
+            "failure": "Closed"
+        },
         "2026-02-27": {
             "amount": 1247,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2026-02-28": {
+            "amount": 1460,
             "available": false,
             "failure": "Closed"
         },
@@ -5241,7 +5251,7 @@
             "available": true
         },
         "2026-02-26": {
-            "amount": 1701,
+            "amount": 1419,
             "available": false,
             "failure": "Closed"
         },
@@ -5251,7 +5261,7 @@
             "failure": "Closed"
         },
         "2026-02-28": {
-            "amount": 1701,
+            "amount": 1419,
             "available": false,
             "failure": "Closed"
         },
@@ -6731,8 +6741,18 @@
             "amount": 1158,
             "available": true
         },
+        "2026-02-26": {
+            "amount": 1460,
+            "available": false,
+            "failure": "Closed"
+        },
         "2026-02-27": {
             "amount": 1247,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2026-02-28": {
+            "amount": 1460,
             "available": false,
             "failure": "Closed"
         },
@@ -26627,5 +26647,5 @@
             "available": true
         }
     },
-    "lastExecution": "2025-08-18 05:00:49"
+    "lastExecution": "2025-08-18 11:00:51"
 }
