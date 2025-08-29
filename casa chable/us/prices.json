@@ -576,17 +576,17 @@
             "failure": "Closed"
         },
         "2025-12-22": {
-            "amount": 1886,
+            "amount": 1776,
             "available": false,
             "failure": "Closed"
         },
         "2025-12-23": {
-            "amount": 1886,
+            "amount": 1776,
             "available": false,
             "failure": "Closed"
         },
         "2025-12-24": {
-            "amount": 1886,
+            "amount": 1776,
             "available": false,
             "failure": "Closed"
         },
@@ -6002,17 +6002,17 @@
             "failure": "Closed"
         },
         "2025-12-22": {
-            "amount": 1898,
+            "amount": 1788,
             "available": false,
             "failure": "Closed"
         },
         "2025-12-23": {
-            "amount": 1898,
+            "amount": 1788,
             "available": false,
             "failure": "Closed"
         },
         "2025-12-24": {
-            "amount": 1898,
+            "amount": 1788,
             "available": false,
             "failure": "Closed"
         },
@@ -10851,5 +10851,5 @@
             "failure": "Closed"
         }
     },
-    "lastExecution": "2025-08-29 05:00:36"
+    "lastExecution": "2025-08-29 11:00:57"
 }
