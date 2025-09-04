@@ -213,20 +213,20 @@
         "2025-10-16": {
             "amount": 27067,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-17": {
             "amount": 27067,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-18": {
             "amount": 27067,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-19": {
-            "amount": 40899,
+            "amount": 27067,
             "available": false,
             "failure": "Closed"
         },
@@ -2045,17 +2045,22 @@
         "2025-10-16": {
             "amount": 31628,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-17": {
             "amount": 31628,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-18": {
             "amount": 31628,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
+        },
+        "2025-10-19": {
+            "amount": 31628,
+            "available": false,
+            "failure": "Closed"
         },
         "2025-10-20": {
             "amount": 31628,
@@ -3862,17 +3867,22 @@
         "2025-10-16": {
             "amount": 31853,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-17": {
             "amount": 31853,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-18": {
             "amount": 31853,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
+        },
+        "2025-10-19": {
+            "amount": 31853,
+            "available": false,
+            "failure": "Closed"
         },
         "2025-10-20": {
             "amount": 31853,
@@ -5679,20 +5689,20 @@
         "2025-10-16": {
             "amount": 27292,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-17": {
             "amount": 27292,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-18": {
             "amount": 27292,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-19": {
-            "amount": 41124,
+            "amount": 27292,
             "available": false,
             "failure": "Closed"
         },
@@ -7511,17 +7521,22 @@
         "2025-10-16": {
             "amount": 31853,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-17": {
             "amount": 31853,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-18": {
             "amount": 31853,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
+        },
+        "2025-10-19": {
+            "amount": 31853,
+            "available": false,
+            "failure": "Closed"
         },
         "2025-10-20": {
             "amount": 31853,
@@ -9328,17 +9343,22 @@
         "2025-10-16": {
             "amount": 32078,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-17": {
             "amount": 32078,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2025-10-18": {
             "amount": 32078,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
+        },
+        "2025-10-19": {
+            "amount": 32078,
+            "available": false,
+            "failure": "Closed"
         },
         "2025-10-20": {
             "amount": 32078,
@@ -10931,5 +10951,5 @@
             "failure": "Closed"
         }
     },
-    "lastExecution": "2025-09-04 11:01:01"
+    "lastExecution": "2025-09-04 17:00:47"
 }
