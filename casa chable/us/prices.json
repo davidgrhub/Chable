@@ -2402,6 +2402,16 @@
             "available": false,
             "failure": "NoAvailableInventory"
         },
+        "2026-01-02": {
+            "amount": 1580,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2026-01-03": {
+            "amount": 1592,
+            "available": false,
+            "failure": "Closed"
+        },
         "2026-01-04": {
             "amount": 1602,
             "available": false,
@@ -4223,6 +4233,16 @@
             "amount": 2240,
             "available": false,
             "failure": "NoAvailableInventory"
+        },
+        "2026-01-02": {
+            "amount": 1653,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2026-01-03": {
+            "amount": 1666,
+            "available": false,
+            "failure": "Closed"
         },
         "2026-01-04": {
             "amount": 1679,
@@ -7878,6 +7898,16 @@
             "available": false,
             "failure": "NoAvailableInventory"
         },
+        "2026-01-02": {
+            "amount": 1592,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2026-01-03": {
+            "amount": 1604,
+            "available": false,
+            "failure": "Closed"
+        },
         "2026-01-04": {
             "amount": 1614,
             "available": false,
@@ -9700,6 +9730,16 @@
             "available": false,
             "failure": "NoAvailableInventory"
         },
+        "2026-01-02": {
+            "amount": 1665,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2026-01-03": {
+            "amount": 1678,
+            "available": false,
+            "failure": "Closed"
+        },
         "2026-01-04": {
             "amount": 1691,
             "available": false,
@@ -10951,5 +10991,5 @@
             "failure": "Closed"
         }
     },
-    "lastExecution": "2025-09-10 11:00:44"
+    "lastExecution": "2025-09-10 17:00:46"
 }
