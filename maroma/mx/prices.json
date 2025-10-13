@@ -328,7 +328,7 @@
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 46498,
+            "amount": 52577,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -1825,7 +1825,7 @@
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 47994,
+            "amount": 54073,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -3322,7 +3322,7 @@
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 49490,
+            "amount": 240583,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -4819,7 +4819,7 @@
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 46498,
+            "amount": 52577,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -6316,7 +6316,7 @@
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 47994,
+            "amount": 54073,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -7813,7 +7813,7 @@
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 49490,
+            "amount": 240583,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -9310,7 +9310,7 @@
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 49490,
+            "amount": 240583,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -10807,7 +10807,7 @@
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 50986,
+            "amount": 240583,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -26635,5 +26635,5 @@
             "available": true
         }
     },
-    "lastExecution": "2025-10-13 05:00:52"
+    "lastExecution": "2025-10-13 11:00:52"
 }
