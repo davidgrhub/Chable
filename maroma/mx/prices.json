@@ -457,17 +457,17 @@
             "available": true
         },
         "2026-02-19": {
-            "amount": 28024,
+            "amount": 33026,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-20": {
-            "amount": 28904,
+            "amount": 33905,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-21": {
-            "amount": 29783,
+            "amount": 34785,
             "available": false,
             "failure": "MinStayThrough"
         },
@@ -1950,17 +1950,17 @@
             "available": true
         },
         "2026-02-19": {
-            "amount": 28979,
+            "amount": 33981,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-20": {
-            "amount": 29859,
+            "amount": 34860,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-21": {
-            "amount": 30738,
+            "amount": 35740,
             "available": false,
             "failure": "MinStayThrough"
         },
@@ -3443,17 +3443,17 @@
             "available": true
         },
         "2026-02-19": {
-            "amount": 29959,
+            "amount": 140168,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-20": {
-            "amount": 30839,
+            "amount": 141048,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-21": {
-            "amount": 31719,
+            "amount": 141928,
             "available": false,
             "failure": "MinStayThrough"
         },
@@ -4936,17 +4936,17 @@
             "available": true
         },
         "2026-02-19": {
-            "amount": 28024,
+            "amount": 33026,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-20": {
-            "amount": 28904,
+            "amount": 33905,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-21": {
-            "amount": 29783,
+            "amount": 34785,
             "available": false,
             "failure": "MinStayThrough"
         },
@@ -6429,17 +6429,17 @@
             "available": true
         },
         "2026-02-19": {
-            "amount": 28979,
+            "amount": 33981,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-20": {
-            "amount": 29859,
+            "amount": 34860,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-21": {
-            "amount": 30738,
+            "amount": 35740,
             "available": false,
             "failure": "MinStayThrough"
         },
@@ -7922,17 +7922,17 @@
             "available": true
         },
         "2026-02-19": {
-            "amount": 29959,
+            "amount": 140168,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-20": {
-            "amount": 30839,
+            "amount": 141048,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-21": {
-            "amount": 31719,
+            "amount": 141928,
             "available": false,
             "failure": "MinStayThrough"
         },
@@ -9415,17 +9415,17 @@
             "available": true
         },
         "2026-02-19": {
-            "amount": 29959,
+            "amount": 138233,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-20": {
-            "amount": 30839,
+            "amount": 139113,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-21": {
-            "amount": 31719,
+            "amount": 139992,
             "available": false,
             "failure": "MinStayThrough"
         },
@@ -10908,17 +10908,17 @@
             "available": true
         },
         "2026-02-19": {
-            "amount": 30914,
+            "amount": 139188,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-20": {
-            "amount": 31794,
+            "amount": 140068,
             "available": false,
             "failure": "MinStayThrough"
         },
         "2026-02-21": {
-            "amount": 32674,
+            "amount": 140947,
             "available": false,
             "failure": "MinStayThrough"
         },
@@ -26603,5 +26603,5 @@
             "available": true
         }
     },
-    "lastExecution": "2025-10-31 11:00:59"
+    "lastExecution": "2025-10-31 17:00:56"
 }
