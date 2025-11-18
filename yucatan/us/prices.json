@@ -3143,12 +3143,12 @@
             "failure": "MinStayArrive"
         },
         "2025-12-30": {
-            "amount": 3512,
+            "amount": 11574,
             "available": false,
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 3512,
+            "amount": 11574,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -6107,12 +6107,12 @@
             "failure": "MinStayArrive"
         },
         "2025-12-30": {
-            "amount": 3377,
+            "amount": 11439,
             "available": false,
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 3377,
+            "amount": 11439,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -7589,12 +7589,12 @@
             "failure": "MinStayArrive"
         },
         "2025-12-30": {
-            "amount": 3512,
+            "amount": 11574,
             "available": false,
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 3512,
+            "amount": 11574,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -9071,12 +9071,12 @@
             "failure": "MinStayArrive"
         },
         "2025-12-30": {
-            "amount": 3377,
+            "amount": 11439,
             "available": false,
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 3377,
+            "amount": 11439,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -10553,12 +10553,12 @@
             "failure": "MinStayArrive"
         },
         "2025-12-30": {
-            "amount": 3512,
+            "amount": 11574,
             "available": false,
             "failure": "MinStayArrive"
         },
         "2025-12-31": {
-            "amount": 3512,
+            "amount": 11574,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -21820,5 +21820,5 @@
     },
     "6-1": {},
     "6-2": {},
-    "lastExecution": "2025-11-18 11:00:48"
+    "lastExecution": "2025-11-18 17:00:52"
 }
