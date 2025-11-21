@@ -11946,7 +11946,7 @@
             "failure": "MinStayArrive"
         },
         "2026-01-01": {
-            "amount": 10538,
+            "amount": 12408,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -13351,7 +13351,7 @@
             "failure": "MinStayArrive"
         },
         "2026-01-01": {
-            "amount": 10174,
+            "amount": 12045,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -14768,7 +14768,7 @@
             "failure": "MinStayArrive"
         },
         "2026-01-01": {
-            "amount": 10296,
+            "amount": 12166,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -16161,7 +16161,7 @@
             "failure": "MinStayArrive"
         },
         "2026-01-01": {
-            "amount": 10417,
+            "amount": 12287,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -17554,7 +17554,7 @@
             "failure": "MinStayArrive"
         },
         "2026-01-01": {
-            "amount": 10174,
+            "amount": 12045,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -18947,7 +18947,7 @@
             "failure": "MinStayArrive"
         },
         "2026-01-01": {
-            "amount": 10296,
+            "amount": 12166,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -20341,7 +20341,7 @@
             "failure": "MinStayArrive"
         },
         "2026-01-01": {
-            "amount": 10296,
+            "amount": 12166,
             "available": false,
             "failure": "MinStayArrive"
         },
@@ -21595,5 +21595,5 @@
     },
     "6-1": {},
     "6-2": {},
-    "lastExecution": "2025-11-21 11:00:54"
+    "lastExecution": "2025-11-21 17:00:49"
 }
