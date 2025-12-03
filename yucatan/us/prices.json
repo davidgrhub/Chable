@@ -13,7 +13,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 1001,
+            "amount": 5269,
             "available": true
         },
         "2025-12-07": {
@@ -1498,7 +1498,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 1089,
+            "amount": 5356,
             "available": true
         },
         "2025-12-07": {
@@ -2983,7 +2983,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 2137,
+            "amount": 5444,
             "available": true
         },
         "2025-12-08": {
@@ -4459,7 +4459,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 1001,
+            "amount": 5269,
             "available": true
         },
         "2025-12-07": {
@@ -5944,7 +5944,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 2049,
+            "amount": 5356,
             "available": true
         },
         "2025-12-08": {
@@ -7420,7 +7420,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 2137,
+            "amount": 5444,
             "available": true
         },
         "2025-12-08": {
@@ -8896,7 +8896,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 1962,
+            "amount": 5269,
             "available": true
         },
         "2025-12-08": {
@@ -10372,7 +10372,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 2049,
+            "amount": 5356,
             "available": true
         },
         "2025-12-08": {
@@ -11867,10 +11867,6 @@
             "amount": 4681,
             "available": true
         },
-        "2025-12-13": {
-            "amount": 5269,
-            "available": true
-        },
         "2025-12-14": {
             "amount": 5269,
             "available": true
@@ -13253,7 +13249,7 @@
             "available": true
         },
         "2025-12-06": {
-            "amount": 1962,
+            "amount": 5269,
             "available": true
         },
         "2025-12-08": {
@@ -13270,10 +13266,6 @@
         },
         "2025-12-11": {
             "amount": 4506,
-            "available": true
-        },
-        "2025-12-13": {
-            "amount": 1882,
             "available": true
         },
         "2025-12-14": {
@@ -14701,10 +14693,6 @@
             "amount": 4593,
             "available": true
         },
-        "2025-12-13": {
-            "amount": 5269,
-            "available": true
-        },
         "2025-12-14": {
             "amount": 5269,
             "available": true
@@ -16104,10 +16092,6 @@
         },
         "2025-12-11": {
             "amount": 4681,
-            "available": true
-        },
-        "2025-12-13": {
-            "amount": 5269,
             "available": true
         },
         "2025-12-14": {
@@ -17511,10 +17495,6 @@
             "amount": 4506,
             "available": true
         },
-        "2025-12-13": {
-            "amount": 5269,
-            "available": true
-        },
         "2025-12-14": {
             "amount": 5269,
             "available": true
@@ -18914,10 +18894,6 @@
         },
         "2025-12-11": {
             "amount": 4593,
-            "available": true
-        },
-        "2025-12-13": {
-            "amount": 5269,
             "available": true
         },
         "2025-12-14": {
@@ -20322,10 +20298,6 @@
             "amount": 4593,
             "available": true
         },
-        "2025-12-13": {
-            "amount": 5269,
-            "available": true
-        },
         "2025-12-14": {
             "amount": 5269,
             "available": true
@@ -21696,5 +21668,5 @@
     },
     "6-1": {},
     "6-2": {},
-    "lastExecution": "2025-12-03 11:00:46"
+    "lastExecution": "2025-12-03 17:00:48"
 }
