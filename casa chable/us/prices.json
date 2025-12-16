@@ -1,10 +1,5 @@
 {
     "1-0": {
-        "2025-12-15": {
-            "amount": 1444,
-            "available": false,
-            "failure": "Closed"
-        },
         "2025-12-16": {
             "amount": 1444,
             "available": false,
@@ -1829,14 +1824,14 @@
             "amount": 1622,
             "available": false,
             "failure": "Closed"
+        },
+        "2026-12-16": {
+            "amount": 1622,
+            "available": false,
+            "failure": "Closed"
         }
     },
     "1-1": {
-        "2025-12-15": {
-            "amount": 1687,
-            "available": false,
-            "failure": "Closed"
-        },
         "2025-12-16": {
             "amount": 1687,
             "available": false,
@@ -3661,14 +3656,14 @@
             "amount": 1760,
             "available": false,
             "failure": "Closed"
+        },
+        "2026-12-16": {
+            "amount": 1760,
+            "available": false,
+            "failure": "Closed"
         }
     },
     "1-2": {
-        "2025-12-15": {
-            "amount": 1699,
-            "available": false,
-            "failure": "Closed"
-        },
         "2025-12-16": {
             "amount": 1699,
             "available": false,
@@ -5493,14 +5488,14 @@
             "amount": 1772,
             "available": false,
             "failure": "Closed"
+        },
+        "2026-12-16": {
+            "amount": 1772,
+            "available": false,
+            "failure": "Closed"
         }
     },
     "2-0": {
-        "2025-12-15": {
-            "amount": 1456,
-            "available": false,
-            "failure": "Closed"
-        },
         "2025-12-16": {
             "amount": 1456,
             "available": false,
@@ -7325,14 +7320,14 @@
             "amount": 1634,
             "available": false,
             "failure": "Closed"
+        },
+        "2026-12-16": {
+            "amount": 1634,
+            "available": false,
+            "failure": "Closed"
         }
     },
     "2-1": {
-        "2025-12-15": {
-            "amount": 1699,
-            "available": false,
-            "failure": "Closed"
-        },
         "2025-12-16": {
             "amount": 1699,
             "available": false,
@@ -9157,14 +9152,14 @@
             "amount": 1772,
             "available": false,
             "failure": "Closed"
+        },
+        "2026-12-16": {
+            "amount": 1772,
+            "available": false,
+            "failure": "Closed"
         }
     },
     "2-2": {
-        "2025-12-15": {
-            "amount": 1711,
-            "available": false,
-            "failure": "Closed"
-        },
         "2025-12-16": {
             "amount": 1711,
             "available": false,
@@ -10989,7 +10984,12 @@
             "amount": 1784,
             "available": false,
             "failure": "Closed"
+        },
+        "2026-12-16": {
+            "amount": 1784,
+            "available": false,
+            "failure": "Closed"
         }
     },
-    "lastExecution": "2025-12-15 23:00:42"
+    "lastExecution": "2025-12-16 11:00:47"
 }
