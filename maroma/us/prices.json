@@ -1,10 +1,5 @@
 {
     "1-0": {
-        "2025-12-26": {
-            "amount": 1903,
-            "available": false,
-            "failure": "MinStayArrive"
-        },
         "2025-12-27": {
             "amount": 3621,
             "available": false,
@@ -1495,16 +1490,16 @@
         },
         "2026-12-26": {
             "amount": 1761,
+            "available": false,
+            "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 2777,
             "available": false,
             "failure": "MinStayArrive"
         }
     },
     "1-1": {
-        "2025-12-26": {
-            "amount": 1962,
-            "available": false,
-            "failure": "MinStayArrive"
-        },
         "2025-12-27": {
             "amount": 3680,
             "available": false,
@@ -2982,14 +2977,14 @@
             "amount": 1814,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 2830,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "1-2": {
-        "2025-12-26": {
-            "amount": 2116,
-            "available": false,
-            "failure": "MinStayArrive"
-        },
         "2025-12-31": {
             "amount": 3133,
             "available": false,
@@ -3085,7 +3080,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 1080,
+            "amount": 1079,
             "available": true
         },
         "2026-01-27": {
@@ -4402,14 +4397,14 @@
             "amount": 1966,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 2884,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "2-0": {
-        "2025-12-26": {
-            "amount": 1903,
-            "available": false,
-            "failure": "MinStayArrive"
-        },
         "2025-12-27": {
             "amount": 3621,
             "available": false,
@@ -5902,14 +5897,14 @@
             "amount": 1868,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 2884,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "2-1": {
-        "2025-12-26": {
-            "amount": 1962,
-            "available": false,
-            "failure": "MinStayArrive"
-        },
         "2025-12-27": {
             "amount": 3680,
             "available": false,
@@ -7387,14 +7382,14 @@
             "amount": 1922,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 2938,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "2-2": {
-        "2025-12-26": {
-            "amount": 2116,
-            "available": false,
-            "failure": "MinStayArrive"
-        },
         "2025-12-31": {
             "amount": 3133,
             "available": false,
@@ -7490,7 +7485,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 1080,
+            "amount": 1079,
             "available": true
         },
         "2026-01-27": {
@@ -8805,16 +8800,16 @@
         },
         "2026-12-26": {
             "amount": 2074,
+            "available": false,
+            "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 2992,
             "available": false,
             "failure": "MinStayArrive"
         }
     },
     "3-0": {
-        "2025-12-26": {
-            "amount": 2116,
-            "available": false,
-            "failure": "MinStayArrive"
-        },
         "2025-12-31": {
             "amount": 3133,
             "available": false,
@@ -8910,7 +8905,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 1080,
+            "amount": 1079,
             "available": true
         },
         "2026-01-27": {
@@ -10227,14 +10222,14 @@
             "amount": 2074,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 2777,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "3-1": {
-        "2025-12-26": {
-            "amount": 2116,
-            "available": false,
-            "failure": "MinStayArrive"
-        },
         "2025-12-31": {
             "amount": 3192,
             "available": false,
@@ -10330,7 +10325,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 1117,
+            "amount": 1116,
             "available": true
         },
         "2026-01-27": {
@@ -11647,6 +11642,11 @@
             "amount": 2128,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 2830,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "3-2": {
@@ -11727,7 +11727,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 5297,
+            "amount": 5296,
             "available": true
         },
         "2026-01-27": {
@@ -13015,6 +13015,11 @@
         },
         "2026-12-26": {
             "amount": 10249,
+            "available": false,
+            "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 11826,
             "available": false,
             "failure": "MinStayArrive"
         }
@@ -14387,6 +14392,11 @@
             "amount": 10249,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 11826,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "4-1": {
@@ -14467,7 +14477,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 5260,
+            "amount": 5259,
             "available": true
         },
         "2026-01-27": {
@@ -15755,6 +15765,11 @@
         },
         "2026-12-26": {
             "amount": 10303,
+            "available": false,
+            "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 11879,
             "available": false,
             "failure": "MinStayArrive"
         }
@@ -15837,7 +15852,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 5297,
+            "amount": 5296,
             "available": true
         },
         "2026-01-27": {
@@ -17125,6 +17140,11 @@
         },
         "2026-12-26": {
             "amount": 10357,
+            "available": false,
+            "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 11933,
             "available": false,
             "failure": "MinStayArrive"
         }
@@ -18497,6 +18517,11 @@
             "amount": 10357,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 11933,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "5-1": {
@@ -18577,7 +18602,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 5260,
+            "amount": 5259,
             "available": true
         },
         "2026-01-27": {
@@ -19865,6 +19890,11 @@
         },
         "2026-12-26": {
             "amount": 10411,
+            "available": false,
+            "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 11987,
             "available": false,
             "failure": "MinStayArrive"
         }
@@ -19947,7 +19977,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 5297,
+            "amount": 5296,
             "available": true
         },
         "2026-01-27": {
@@ -21235,6 +21265,11 @@
         },
         "2026-12-26": {
             "amount": 10464,
+            "available": false,
+            "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 12041,
             "available": false,
             "failure": "MinStayArrive"
         }
@@ -21317,7 +21352,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 5297,
+            "amount": 5296,
             "available": true
         },
         "2026-01-27": {
@@ -22605,6 +22640,11 @@
         },
         "2026-12-26": {
             "amount": 10464,
+            "available": false,
+            "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 12041,
             "available": false,
             "failure": "MinStayArrive"
         }
@@ -23977,6 +24017,11 @@
             "amount": 10518,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 12095,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "6-2": {
@@ -25347,7 +25392,12 @@
             "amount": 10572,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-27": {
+            "amount": 12149,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
-    "lastExecution": "2025-12-26 23:02:27"
+    "lastExecution": "2025-12-27 05:02:26"
 }
