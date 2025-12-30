@@ -1,10 +1,5 @@
 {
     "1-0": {
-        "2025-12-29": {
-            "amount": 58095,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2025-12-30": {
             "amount": 58095,
             "available": true
@@ -126,7 +121,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 19914,
+            "amount": 19903,
             "available": true
         },
         "2026-01-30": {
@@ -1479,14 +1474,14 @@
             "amount": 51935,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 52812,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "1-1": {
-        "2025-12-29": {
-            "amount": 60507,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2025-12-30": {
             "amount": 60507,
             "available": true
@@ -2961,14 +2956,14 @@
             "amount": 53864,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 54742,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "1-2": {
-        "2025-12-29": {
-            "amount": 62920,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2025-12-30": {
             "amount": 62920,
             "available": true
@@ -3086,7 +3081,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 22568,
+            "amount": 22557,
             "available": true
         },
         "2026-01-30": {
@@ -4439,14 +4434,14 @@
             "amount": 55795,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 56672,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "2-0": {
-        "2025-12-29": {
-            "amount": 58095,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2025-12-30": {
             "amount": 58095,
             "available": true
@@ -4568,7 +4563,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 19914,
+            "amount": 19903,
             "available": true
         },
         "2026-01-30": {
@@ -5921,14 +5916,14 @@
             "amount": 51935,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 52812,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "2-1": {
-        "2025-12-29": {
-            "amount": 60507,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2025-12-30": {
             "amount": 60507,
             "available": true
@@ -7399,14 +7394,14 @@
             "amount": 53864,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 54742,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "2-2": {
-        "2025-12-29": {
-            "amount": 62920,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2025-12-30": {
             "amount": 62920,
             "available": true
@@ -7524,7 +7519,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 22568,
+            "amount": 22557,
             "available": true
         },
         "2026-01-30": {
@@ -8877,14 +8872,14 @@
             "amount": 55795,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 56672,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "3-0": {
-        "2025-12-29": {
-            "amount": 60507,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2025-12-30": {
             "amount": 60507,
             "available": true
@@ -10355,14 +10350,14 @@
             "amount": 53864,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 54742,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "3-1": {
-        "2025-12-29": {
-            "amount": 62109,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2025-12-30": {
             "amount": 62109,
             "available": true
@@ -10480,7 +10475,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 22568,
+            "amount": 22557,
             "available": true
         },
         "2026-01-30": {
@@ -11833,14 +11828,14 @@
             "amount": 55795,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 56672,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "3-2": {
-        "2025-12-29": {
-            "amount": 206938,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2026-01-01": {
             "amount": 219498,
             "available": true
@@ -11926,7 +11921,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 89218,
+            "amount": 89202,
             "available": true
         },
         "2026-01-30": {
@@ -13251,14 +13246,14 @@
             "amount": 176155,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 176155,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "4-0": {
-        "2025-12-29": {
-            "amount": 120064,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2026-01-01": {
             "amount": 214112,
             "available": true
@@ -13271,24 +13266,20 @@
             "amount": 37683,
             "available": true
         },
-        "2026-01-08": {
-            "amount": 41302,
-            "available": true
-        },
         "2026-01-09": {
             "amount": 38287,
             "available": true
         },
         "2026-01-10": {
-            "amount": 38287,
+            "amount": 86548,
             "available": true
         },
         "2026-01-11": {
-            "amount": 34668,
+            "amount": 82930,
             "available": true
         },
         "2026-01-12": {
-            "amount": 34668,
+            "amount": 82930,
             "available": true
         },
         "2026-01-13": {
@@ -13356,7 +13347,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 38293,
+            "amount": 38287,
             "available": true
         },
         "2026-01-30": {
@@ -14693,14 +14684,14 @@
             "amount": 102114,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 102114,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "4-1": {
-        "2025-12-29": {
-            "amount": 208434,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2026-01-01": {
             "amount": 215459,
             "available": true
@@ -14786,7 +14777,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 87881,
+            "amount": 87875,
             "available": true
         },
         "2026-01-30": {
@@ -16111,14 +16102,14 @@
             "amount": 174225,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 174225,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "4-2": {
-        "2025-12-29": {
-            "amount": 209930,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2026-01-01": {
             "amount": 216805,
             "available": true
@@ -16204,7 +16195,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 89218,
+            "amount": 89202,
             "available": true
         },
         "2026-01-30": {
@@ -17529,14 +17520,14 @@
             "amount": 176155,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 176155,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "5-0": {
-        "2025-12-29": {
-            "amount": 209789,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2026-01-01": {
             "amount": 214112,
             "available": true
@@ -17622,7 +17613,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 86565,
+            "amount": 86548,
             "available": true
         },
         "2026-01-30": {
@@ -18947,14 +18938,14 @@
             "amount": 172295,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 172295,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "5-1": {
-        "2025-12-29": {
-            "amount": 211426,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2026-01-01": {
             "amount": 215459,
             "available": true
@@ -19040,7 +19031,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 87881,
+            "amount": 87875,
             "available": true
         },
         "2026-01-30": {
@@ -20365,15 +20356,15 @@
             "amount": 174225,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 174225,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "5-2": {},
     "6-0": {
-        "2025-12-29": {
-            "amount": 212201,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2026-01-01": {
             "amount": 216805,
             "available": true
@@ -20459,7 +20450,7 @@
             "available": true
         },
         "2026-01-29": {
-            "amount": 87881,
+            "amount": 87875,
             "available": true
         },
         "2026-01-30": {
@@ -21784,9 +21775,14 @@
             "amount": 174225,
             "available": false,
             "failure": "MinStayArrive"
+        },
+        "2026-12-30": {
+            "amount": 174225,
+            "available": false,
+            "failure": "MinStayArrive"
         }
     },
     "6-1": {},
     "6-2": {},
-    "lastExecution": "2025-12-29 23:00:51"
+    "lastExecution": "2025-12-30 05:01:00"
 }
