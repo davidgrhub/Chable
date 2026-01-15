@@ -3015,7 +3015,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 2868,
+            "amount": 1548,
             "available": true
         },
         "2026-01-27": {
@@ -3041,7 +3041,7 @@
             "failure": "NoAvailableInventory"
         },
         "2026-02-01": {
-            "amount": 1498,
+            "amount": 1502,
             "available": false,
             "failure": "NoAvailableInventory"
         },
@@ -3202,17 +3202,17 @@
             "available": true
         },
         "2026-03-13": {
-            "amount": 1476,
+            "amount": 1500,
             "available": false,
             "failure": "Closed"
         },
         "2026-03-14": {
-            "amount": 1519,
+            "amount": 1541,
             "available": false,
             "failure": "Closed"
         },
         "2026-03-15": {
-            "amount": 1347,
+            "amount": 1376,
             "available": false,
             "failure": "Closed"
         },
@@ -5985,7 +5985,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 2766,
+            "amount": 1446,
             "available": true
         },
         "2026-01-27": {
@@ -7470,7 +7470,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 2868,
+            "amount": 1548,
             "available": true
         },
         "2026-01-27": {
@@ -7496,7 +7496,7 @@
             "failure": "NoAvailableInventory"
         },
         "2026-02-01": {
-            "amount": 1498,
+            "amount": 1502,
             "available": false,
             "failure": "NoAvailableInventory"
         },
@@ -7657,17 +7657,17 @@
             "available": true
         },
         "2026-03-13": {
-            "amount": 1476,
+            "amount": 1500,
             "available": false,
             "failure": "Closed"
         },
         "2026-03-14": {
-            "amount": 1519,
+            "amount": 1541,
             "available": false,
             "failure": "Closed"
         },
         "2026-03-15": {
-            "amount": 1347,
+            "amount": 1376,
             "available": false,
             "failure": "Closed"
         },
@@ -8955,7 +8955,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 2664,
+            "amount": 1446,
             "available": true
         },
         "2026-01-27": {
@@ -10440,7 +10440,7 @@
             "available": true
         },
         "2026-01-26": {
-            "amount": 2766,
+            "amount": 1548,
             "available": true
         },
         "2026-01-27": {
@@ -22093,5 +22093,5 @@
     },
     "6-1": {},
     "6-2": {},
-    "lastExecution": "2026-01-15 11:00:48"
+    "lastExecution": "2026-01-15 17:00:47"
 }
