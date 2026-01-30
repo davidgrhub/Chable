@@ -1,10 +1,5 @@
 {
     "1-0": {
-        "2026-01-29": {
-            "amount": 24002,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-01-30": {
             "amount": 25109,
             "available": false,
@@ -1827,16 +1822,16 @@
         },
         "2027-01-29": {
             "amount": 25109,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2027-01-30": {
+            "amount": 25331,
             "available": false,
             "failure": "Closed"
         }
     },
     "1-1": {
-        "2026-01-29": {
-            "amount": 27440,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-01-30": {
             "amount": 28547,
             "available": false,
@@ -3659,16 +3654,16 @@
         },
         "2027-01-29": {
             "amount": 28547,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2027-01-30": {
+            "amount": 28768,
             "available": false,
             "failure": "Closed"
         }
     },
     "1-2": {
-        "2026-01-29": {
-            "amount": 28752,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-01-30": {
             "amount": 29859,
             "available": false,
@@ -5491,16 +5486,16 @@
         },
         "2027-01-29": {
             "amount": 29859,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2027-01-30": {
+            "amount": 30080,
             "available": false,
             "failure": "Closed"
         }
     },
     "2-0": {
-        "2026-01-29": {
-            "amount": 24208,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-01-30": {
             "amount": 25315,
             "available": false,
@@ -7323,16 +7318,16 @@
         },
         "2027-01-29": {
             "amount": 25315,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2027-01-30": {
+            "amount": 25536,
             "available": false,
             "failure": "Closed"
         }
     },
     "2-1": {
-        "2026-01-29": {
-            "amount": 27645,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-01-30": {
             "amount": 28752,
             "available": false,
@@ -9155,16 +9150,16 @@
         },
         "2027-01-29": {
             "amount": 28752,
+            "available": false,
+            "failure": "Closed"
+        },
+        "2027-01-30": {
+            "amount": 28974,
             "available": false,
             "failure": "Closed"
         }
     },
     "2-2": {
-        "2026-01-29": {
-            "amount": 28958,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-01-30": {
             "amount": 30065,
             "available": false,
@@ -10989,7 +10984,12 @@
             "amount": 30065,
             "available": false,
             "failure": "Closed"
+        },
+        "2027-01-30": {
+            "amount": 30286,
+            "available": false,
+            "failure": "Closed"
         }
     },
-    "lastExecution": "2026-01-29 23:00:35"
+    "lastExecution": "2026-01-30 05:00:39"
 }
