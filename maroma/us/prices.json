@@ -11804,10 +11804,6 @@
         }
     },
     "3-2": {
-        "2026-02-01": {
-            "amount": 7018,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6690,
             "available": true
@@ -13259,10 +13255,6 @@
         }
     },
     "4-0": {
-        "2026-02-01": {
-            "amount": 7018,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6598,
             "available": true
@@ -14714,10 +14706,6 @@
         }
     },
     "4-1": {
-        "2026-02-01": {
-            "amount": 7018,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6644,
             "available": true
@@ -16169,10 +16157,6 @@
         }
     },
     "4-2": {
-        "2026-02-01": {
-            "amount": 7018,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6690,
             "available": true
@@ -17624,10 +17608,6 @@
         }
     },
     "5-0": {
-        "2026-02-01": {
-            "amount": 7018,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6598,
             "available": true
@@ -19079,10 +19059,6 @@
         }
     },
     "5-1": {
-        "2026-02-01": {
-            "amount": 7018,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6644,
             "available": true
@@ -20534,10 +20510,6 @@
         }
     },
     "5-2": {
-        "2026-02-01": {
-            "amount": 7018,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6690,
             "available": true
@@ -21989,10 +21961,6 @@
         }
     },
     "6-0": {
-        "2026-02-01": {
-            "amount": 7110,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6690,
             "available": true
@@ -23444,10 +23412,6 @@
         }
     },
     "6-1": {
-        "2026-02-01": {
-            "amount": 7110,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6737,
             "available": true
@@ -24899,10 +24863,6 @@
         }
     },
     "6-2": {
-        "2026-02-01": {
-            "amount": 7110,
-            "available": true
-        },
         "2026-02-02": {
             "amount": 6783,
             "available": true
@@ -26353,5 +26313,5 @@
             "available": true
         }
     },
-    "lastExecution": "2026-02-01 05:00:59"
+    "lastExecution": "2026-02-01 11:00:58"
 }
