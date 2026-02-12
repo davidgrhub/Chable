@@ -39,7 +39,7 @@
             "failure": "Closed"
         },
         "2026-02-21": {
-            "amount": 1354,
+            "amount": 1593,
             "available": false,
             "failure": "Closed"
         },
@@ -1536,7 +1536,7 @@
             "failure": "Closed"
         },
         "2026-02-21": {
-            "amount": 1400,
+            "amount": 1639,
             "available": false,
             "failure": "Closed"
         },
@@ -3022,11 +3022,6 @@
             "amount": 1346,
             "available": true
         },
-        "2026-02-21": {
-            "amount": 1447,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-02-22": {
             "amount": 1346,
             "available": true
@@ -4497,7 +4492,7 @@
             "failure": "Closed"
         },
         "2026-02-21": {
-            "amount": 1354,
+            "amount": 1593,
             "available": false,
             "failure": "Closed"
         },
@@ -5994,7 +5989,7 @@
             "failure": "Closed"
         },
         "2026-02-21": {
-            "amount": 1400,
+            "amount": 1639,
             "available": false,
             "failure": "Closed"
         },
@@ -7480,11 +7475,6 @@
             "amount": 1346,
             "available": true
         },
-        "2026-02-21": {
-            "amount": 1447,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-02-22": {
             "amount": 1346,
             "available": true
@@ -8944,11 +8934,6 @@
             "amount": 1346,
             "available": true
         },
-        "2026-02-21": {
-            "amount": 1447,
-            "available": false,
-            "failure": "Closed"
-        },
         "2026-02-22": {
             "amount": 1346,
             "available": true
@@ -10407,11 +10392,6 @@
         "2026-02-18": {
             "amount": 1392,
             "available": true
-        },
-        "2026-02-21": {
-            "amount": 1493,
-            "available": false,
-            "failure": "Closed"
         },
         "2026-02-22": {
             "amount": 1392,
@@ -26203,5 +26183,5 @@
             "available": true
         }
     },
-    "lastExecution": "2026-02-12 05:00:53"
+    "lastExecution": "2026-02-12 11:00:53"
 }
