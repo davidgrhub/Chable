@@ -2964,10 +2964,6 @@
         }
     },
     "1-2": {
-        "2026-02-15": {
-            "amount": 2556,
-            "available": true
-        },
         "2026-02-16": {
             "amount": 2660,
             "available": true
@@ -5928,10 +5924,6 @@
         }
     },
     "2-1": {
-        "2026-02-15": {
-            "amount": 2453,
-            "available": true
-        },
         "2026-02-16": {
             "amount": 2660,
             "available": true
@@ -7410,10 +7402,6 @@
         }
     },
     "2-2": {
-        "2026-02-15": {
-            "amount": 2556,
-            "available": true
-        },
         "2026-02-16": {
             "amount": 2763,
             "available": true
@@ -8892,10 +8880,6 @@
         }
     },
     "3-0": {
-        "2026-02-15": {
-            "amount": 2453,
-            "available": true
-        },
         "2026-02-16": {
             "amount": 2660,
             "available": true
@@ -10374,10 +10358,6 @@
         }
     },
     "3-1": {
-        "2026-02-15": {
-            "amount": 2556,
-            "available": true
-        },
         "2026-02-16": {
             "amount": 2763,
             "available": true
@@ -12216,15 +12196,15 @@
             "available": true
         },
         "2026-05-23": {
-            "amount": 5143,
+            "amount": 4435,
             "available": true
         },
         "2026-05-24": {
-            "amount": 5001,
+            "amount": 4293,
             "available": true
         },
         "2026-05-25": {
-            "amount": 5001,
+            "amount": 4293,
             "available": true
         },
         "2026-05-26": {
@@ -15128,15 +15108,15 @@
             "available": true
         },
         "2026-05-23": {
-            "amount": 5066,
+            "amount": 4358,
             "available": true
         },
         "2026-05-24": {
-            "amount": 4924,
+            "amount": 4216,
             "available": true
         },
         "2026-05-25": {
-            "amount": 4924,
+            "amount": 4216,
             "available": true
         },
         "2026-05-26": {
@@ -16578,15 +16558,15 @@
             "available": true
         },
         "2026-05-23": {
-            "amount": 5143,
+            "amount": 4435,
             "available": true
         },
         "2026-05-24": {
-            "amount": 5001,
+            "amount": 4293,
             "available": true
         },
         "2026-05-25": {
-            "amount": 5001,
+            "amount": 4293,
             "available": true
         },
         "2026-05-26": {
@@ -18028,15 +18008,15 @@
             "available": true
         },
         "2026-05-23": {
-            "amount": 4987,
+            "amount": 4279,
             "available": true
         },
         "2026-05-24": {
-            "amount": 4846,
+            "amount": 4138,
             "available": true
         },
         "2026-05-25": {
-            "amount": 4846,
+            "amount": 4138,
             "available": true
         },
         "2026-05-26": {
@@ -19478,15 +19458,15 @@
             "available": true
         },
         "2026-05-23": {
-            "amount": 5066,
+            "amount": 4358,
             "available": true
         },
         "2026-05-24": {
-            "amount": 4924,
+            "amount": 4216,
             "available": true
         },
         "2026-05-25": {
-            "amount": 4924,
+            "amount": 4216,
             "available": true
         },
         "2026-05-26": {
@@ -20929,15 +20909,15 @@
             "available": true
         },
         "2026-05-23": {
-            "amount": 5066,
+            "amount": 4358,
             "available": true
         },
         "2026-05-24": {
-            "amount": 4924,
+            "amount": 4216,
             "available": true
         },
         "2026-05-25": {
-            "amount": 4924,
+            "amount": 4216,
             "available": true
         },
         "2026-05-26": {
@@ -22020,5 +22000,5 @@
     },
     "6-1": {},
     "6-2": {},
-    "lastExecution": "2026-02-15 11:00:53"
+    "lastExecution": "2026-02-15 17:00:54"
 }
