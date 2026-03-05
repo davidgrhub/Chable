@@ -45,7 +45,7 @@
         "2026-03-15": {
             "amount": 20403,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2026-03-16": {
             "amount": 20403,
@@ -1099,23 +1099,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 15950,
+            "amount": 18336,
             "available": true
         },
         "2026-12-04": {
-            "amount": 16541,
+            "amount": 18926,
             "available": true
         },
         "2026-12-05": {
-            "amount": 17131,
+            "amount": 19517,
             "available": true
         },
         "2026-12-06": {
-            "amount": 14769,
+            "amount": 17131,
             "available": true
         },
         "2026-12-07": {
-            "amount": 14769,
+            "amount": 17131,
             "available": true
         },
         "2026-12-08": {
@@ -1527,7 +1527,7 @@
         "2026-03-15": {
             "amount": 22062,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2026-03-16": {
             "amount": 22062,
@@ -2581,23 +2581,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 17268,
+            "amount": 19631,
             "available": true
         },
         "2026-12-04": {
-            "amount": 17858,
+            "amount": 20221,
             "available": true
         },
         "2026-12-05": {
-            "amount": 18449,
+            "amount": 20812,
             "available": true
         },
         "2026-12-06": {
-            "amount": 16063,
+            "amount": 18449,
             "available": true
         },
         "2026-12-07": {
-            "amount": 16063,
+            "amount": 18449,
             "available": true
         },
         "2026-12-08": {
@@ -3009,7 +3009,7 @@
         "2026-03-15": {
             "amount": 23743,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2026-03-16": {
             "amount": 23743,
@@ -4063,23 +4063,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 18563,
+            "amount": 20948,
             "available": true
         },
         "2026-12-04": {
-            "amount": 19154,
+            "amount": 21539,
             "available": true
         },
         "2026-12-05": {
-            "amount": 19744,
+            "amount": 22130,
             "available": true
         },
         "2026-12-06": {
-            "amount": 17381,
+            "amount": 19744,
             "available": true
         },
         "2026-12-07": {
-            "amount": 17381,
+            "amount": 19744,
             "available": true
         },
         "2026-12-08": {
@@ -4491,7 +4491,7 @@
         "2026-03-15": {
             "amount": 20403,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2026-03-16": {
             "amount": 20403,
@@ -5545,23 +5545,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 15950,
+            "amount": 18336,
             "available": true
         },
         "2026-12-04": {
-            "amount": 16541,
+            "amount": 18926,
             "available": true
         },
         "2026-12-05": {
-            "amount": 17131,
+            "amount": 19517,
             "available": true
         },
         "2026-12-06": {
-            "amount": 14769,
+            "amount": 17131,
             "available": true
         },
         "2026-12-07": {
-            "amount": 14769,
+            "amount": 17131,
             "available": true
         },
         "2026-12-08": {
@@ -5973,7 +5973,7 @@
         "2026-03-15": {
             "amount": 22062,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2026-03-16": {
             "amount": 22062,
@@ -7027,23 +7027,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 17268,
+            "amount": 19631,
             "available": true
         },
         "2026-12-04": {
-            "amount": 17858,
+            "amount": 20221,
             "available": true
         },
         "2026-12-05": {
-            "amount": 18449,
+            "amount": 20812,
             "available": true
         },
         "2026-12-06": {
-            "amount": 16063,
+            "amount": 18449,
             "available": true
         },
         "2026-12-07": {
-            "amount": 16063,
+            "amount": 18449,
             "available": true
         },
         "2026-12-08": {
@@ -7455,7 +7455,7 @@
         "2026-03-15": {
             "amount": 23743,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2026-03-16": {
             "amount": 23743,
@@ -8509,23 +8509,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 18563,
+            "amount": 20948,
             "available": true
         },
         "2026-12-04": {
-            "amount": 19154,
+            "amount": 21539,
             "available": true
         },
         "2026-12-05": {
-            "amount": 19744,
+            "amount": 22130,
             "available": true
         },
         "2026-12-06": {
-            "amount": 17381,
+            "amount": 19744,
             "available": true
         },
         "2026-12-07": {
-            "amount": 17381,
+            "amount": 19744,
             "available": true
         },
         "2026-12-08": {
@@ -8937,7 +8937,7 @@
         "2026-03-15": {
             "amount": 22062,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2026-03-16": {
             "amount": 22062,
@@ -9991,23 +9991,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 17268,
+            "amount": 19631,
             "available": true
         },
         "2026-12-04": {
-            "amount": 17858,
+            "amount": 20221,
             "available": true
         },
         "2026-12-05": {
-            "amount": 18449,
+            "amount": 20812,
             "available": true
         },
         "2026-12-06": {
-            "amount": 16063,
+            "amount": 18449,
             "available": true
         },
         "2026-12-07": {
-            "amount": 16063,
+            "amount": 18449,
             "available": true
         },
         "2026-12-08": {
@@ -10419,7 +10419,7 @@
         "2026-03-15": {
             "amount": 23743,
             "available": false,
-            "failure": "NoAvailableInventory"
+            "failure": "Closed"
         },
         "2026-03-16": {
             "amount": 23743,
@@ -11473,23 +11473,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 18563,
+            "amount": 20948,
             "available": true
         },
         "2026-12-04": {
-            "amount": 19154,
+            "amount": 21539,
             "available": true
         },
         "2026-12-05": {
-            "amount": 19744,
+            "amount": 22130,
             "available": true
         },
         "2026-12-06": {
-            "amount": 17381,
+            "amount": 19744,
             "available": true
         },
         "2026-12-07": {
-            "amount": 17381,
+            "amount": 19744,
             "available": true
         },
         "2026-12-08": {
@@ -11895,11 +11895,6 @@
         },
         "2026-03-14": {
             "amount": 108716,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
-        "2026-03-15": {
-            "amount": 105694,
             "available": false,
             "failure": "NoAvailableInventory"
         },
@@ -12935,23 +12930,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 73182,
-            "available": true
-        },
-        "2026-12-04": {
-            "amount": 73772,
-            "available": true
-        },
-        "2026-12-05": {
             "amount": 74363,
             "available": true
         },
+        "2026-12-04": {
+            "amount": 74954,
+            "available": true
+        },
+        "2026-12-05": {
+            "amount": 75544,
+            "available": true
+        },
         "2026-12-06": {
-            "amount": 71977,
+            "amount": 73182,
             "available": true
         },
         "2026-12-07": {
-            "amount": 71977,
+            "amount": 73182,
             "available": true
         },
         "2026-12-08": {
@@ -13357,11 +13352,6 @@
         },
         "2026-03-14": {
             "amount": 44941,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
-        "2026-03-15": {
-            "amount": 41919,
             "available": false,
             "failure": "NoAvailableInventory"
         },
@@ -14409,23 +14399,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 32581,
+            "amount": 34944,
             "available": true
         },
         "2026-12-04": {
-            "amount": 33172,
+            "amount": 35535,
             "available": true
         },
         "2026-12-05": {
-            "amount": 33763,
+            "amount": 36125,
             "available": true
         },
         "2026-12-06": {
-            "amount": 31377,
+            "amount": 33763,
             "available": true
         },
         "2026-12-07": {
-            "amount": 31377,
+            "amount": 33763,
             "available": true
         },
         "2026-12-08": {
@@ -14831,11 +14821,6 @@
         },
         "2026-03-14": {
             "amount": 107057,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
-        "2026-03-15": {
-            "amount": 104035,
             "available": false,
             "failure": "NoAvailableInventory"
         },
@@ -15871,23 +15856,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 71864,
-            "available": true
-        },
-        "2026-12-04": {
-            "amount": 72455,
-            "available": true
-        },
-        "2026-12-05": {
             "amount": 73045,
             "available": true
         },
+        "2026-12-04": {
+            "amount": 73659,
+            "available": true
+        },
+        "2026-12-05": {
+            "amount": 74250,
+            "available": true
+        },
         "2026-12-06": {
-            "amount": 70682,
+            "amount": 71864,
             "available": true
         },
         "2026-12-07": {
-            "amount": 70682,
+            "amount": 71864,
             "available": true
         },
         "2026-12-08": {
@@ -16293,11 +16278,6 @@
         },
         "2026-03-14": {
             "amount": 108716,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
-        "2026-03-15": {
-            "amount": 105694,
             "available": false,
             "failure": "NoAvailableInventory"
         },
@@ -17333,23 +17313,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 73182,
-            "available": true
-        },
-        "2026-12-04": {
-            "amount": 73772,
-            "available": true
-        },
-        "2026-12-05": {
             "amount": 74363,
             "available": true
         },
+        "2026-12-04": {
+            "amount": 74954,
+            "available": true
+        },
+        "2026-12-05": {
+            "amount": 75544,
+            "available": true
+        },
         "2026-12-06": {
-            "amount": 71977,
+            "amount": 73182,
             "available": true
         },
         "2026-12-07": {
-            "amount": 71977,
+            "amount": 73182,
             "available": true
         },
         "2026-12-08": {
@@ -17755,11 +17735,6 @@
         },
         "2026-03-14": {
             "amount": 105399,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
-        "2026-03-15": {
-            "amount": 102377,
             "available": false,
             "failure": "NoAvailableInventory"
         },
@@ -18795,23 +18770,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 70569,
-            "available": true
-        },
-        "2026-12-04": {
-            "amount": 71159,
-            "available": true
-        },
-        "2026-12-05": {
             "amount": 71750,
             "available": true
         },
+        "2026-12-04": {
+            "amount": 72341,
+            "available": true
+        },
+        "2026-12-05": {
+            "amount": 72932,
+            "available": true
+        },
         "2026-12-06": {
-            "amount": 69365,
+            "amount": 70569,
             "available": true
         },
         "2026-12-07": {
-            "amount": 69365,
+            "amount": 70569,
             "available": true
         },
         "2026-12-08": {
@@ -19217,11 +19192,6 @@
         },
         "2026-03-14": {
             "amount": 107057,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
-        "2026-03-15": {
-            "amount": 104035,
             "available": false,
             "failure": "NoAvailableInventory"
         },
@@ -20257,23 +20227,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 71864,
-            "available": true
-        },
-        "2026-12-04": {
-            "amount": 72455,
-            "available": true
-        },
-        "2026-12-05": {
             "amount": 73045,
             "available": true
         },
+        "2026-12-04": {
+            "amount": 73659,
+            "available": true
+        },
+        "2026-12-05": {
+            "amount": 74250,
+            "available": true
+        },
         "2026-12-06": {
-            "amount": 70682,
+            "amount": 71864,
             "available": true
         },
         "2026-12-07": {
-            "amount": 70682,
+            "amount": 71864,
             "available": true
         },
         "2026-12-08": {
@@ -20683,11 +20653,6 @@
             "available": false,
             "failure": "NoAvailableInventory"
         },
-        "2026-03-15": {
-            "amount": 104035,
-            "available": false,
-            "failure": "NoAvailableInventory"
-        },
         "2026-03-16": {
             "amount": 104035,
             "available": true
@@ -21720,23 +21685,23 @@
             "available": true
         },
         "2026-12-03": {
-            "amount": 71864,
-            "available": true
-        },
-        "2026-12-04": {
-            "amount": 72455,
-            "available": true
-        },
-        "2026-12-05": {
             "amount": 73045,
             "available": true
         },
+        "2026-12-04": {
+            "amount": 73659,
+            "available": true
+        },
+        "2026-12-05": {
+            "amount": 74250,
+            "available": true
+        },
         "2026-12-06": {
-            "amount": 70682,
+            "amount": 71864,
             "available": true
         },
         "2026-12-07": {
-            "amount": 70682,
+            "amount": 71864,
             "available": true
         },
         "2026-12-08": {
@@ -22104,5 +22069,5 @@
     },
     "6-1": {},
     "6-2": {},
-    "lastExecution": "2026-03-05 11:01:23"
+    "lastExecution": "2026-03-05 17:00:53"
 }
